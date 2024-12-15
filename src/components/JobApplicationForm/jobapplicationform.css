@@ -1,0 +1,25 @@
+.jaf_main {
+    padding: 16px;
+    max-width: 500px;
+    margin: 50px auto !important;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.jaf_main p {
+    font-family: calibri !important;
+}
+
+.jaf_main input {
+    font-family: calibri !important;
+}
+
+.jaf_main button {
+    font-family: calibri !important;
+}
+
+.jaf_main label {
+    font-family: calibri !important;
+}
